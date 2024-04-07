@@ -1,5 +1,12 @@
 import { FC } from 'react';
 
-const ExampleComponent: FC = () => <div>Example</div>;
+import { ExampleComponent2 } from '@Components2';
+
+const ExampleComponent: FC = () => (
+  <div>
+    <p>This is an example component</p>
+    <ExampleComponent2 />
+  </div>
+);
 
 export { ExampleComponent };

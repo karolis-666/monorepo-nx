@@ -1,0 +1,7 @@
+{
+  "name": "components2",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "global/components2/index.ts",
+  "projectType": "library",
+  "tags": []
+}

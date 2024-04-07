@@ -17,6 +17,7 @@
     "paths": {
       "@Assets": ["global/assets"],
       "@Components": ["global/components"],
+      "@Components2": ["global/components2"],
       "@Theme": ["global/theme"]
     }
   },

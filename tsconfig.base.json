@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@Assets": ["global/assets"],
+      "@Components": ["global/components"],
+      "@Theme": ["global/theme"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
